@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mobile-stand-1/static/css/main.58a3a431.css",
-    "main.js": "/mobile-stand-1/static/js/main.8c655d98.js",
-    "reactPlayerPreview.js": "/mobile-stand-1/static/js/reactPlayerPreview.21e9cd27.chunk.js",
-    "static/js/453.0a759dec.chunk.js": "/mobile-stand-1/static/js/453.0a759dec.chunk.js",
-    "static/media/bg.png": "/mobile-stand-1/static/media/bg.bde6c20eba305070a706.png",
-    "static/media/Oferta_Pielegniarki_i_Polozne.pdf": "/mobile-stand-1/static/media/Oferta_Pielegniarki_i_Polozne.5b489a5ae0b8c3a190ae.pdf",
-    "static/media/Oferta_Farmaceuci.pdf": "/mobile-stand-1/static/media/Oferta_Farmaceuci.e074e49427b8cd734b90.pdf",
-    "index.html": "/mobile-stand-1/index.html",
-    "main.58a3a431.css.map": "/mobile-stand-1/static/css/main.58a3a431.css.map",
-    "main.8c655d98.js.map": "/mobile-stand-1/static/js/main.8c655d98.js.map",
-    "reactPlayerPreview.21e9cd27.chunk.js.map": "/mobile-stand-1/static/js/reactPlayerPreview.21e9cd27.chunk.js.map",
-    "453.0a759dec.chunk.js.map": "/mobile-stand-1/static/js/453.0a759dec.chunk.js.map"
+    "main.css": "/edukacja-i-medycyna-1/static/css/main.58a3a431.css",
+    "main.js": "/edukacja-i-medycyna-1/static/js/main.079fa11f.js",
+    "reactPlayerPreview.js": "/edukacja-i-medycyna-1/static/js/reactPlayerPreview.21e9cd27.chunk.js",
+    "static/js/453.0a759dec.chunk.js": "/edukacja-i-medycyna-1/static/js/453.0a759dec.chunk.js",
+    "static/media/bg.png": "/edukacja-i-medycyna-1/static/media/bg.bde6c20eba305070a706.png",
+    "static/media/Oferta_Pielegniarki_i_Polozne.pdf": "/edukacja-i-medycyna-1/static/media/Oferta_Pielegniarki_i_Polozne.5b489a5ae0b8c3a190ae.pdf",
+    "static/media/Oferta_Farmaceuci.pdf": "/edukacja-i-medycyna-1/static/media/Oferta_Farmaceuci.e074e49427b8cd734b90.pdf",
+    "index.html": "/edukacja-i-medycyna-1/index.html",
+    "main.58a3a431.css.map": "/edukacja-i-medycyna-1/static/css/main.58a3a431.css.map",
+    "main.079fa11f.js.map": "/edukacja-i-medycyna-1/static/js/main.079fa11f.js.map",
+    "reactPlayerPreview.21e9cd27.chunk.js.map": "/edukacja-i-medycyna-1/static/js/reactPlayerPreview.21e9cd27.chunk.js.map",
+    "453.0a759dec.chunk.js.map": "/edukacja-i-medycyna-1/static/js/453.0a759dec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58a3a431.css",
-    "static/js/main.8c655d98.js"
+    "static/js/main.079fa11f.js"
   ]
 }
